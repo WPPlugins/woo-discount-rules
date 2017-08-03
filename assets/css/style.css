@@ -1,0 +1,30 @@
+.hide {
+    display: none !important;
+}
+
+.show {
+    display: block !important;
+}
+.checkbox_label{
+    margin-bottom: 0;
+}
+#category_list,
+.apply_child_categories{
+    margin-top: 10px;
+}
+#form_cart_rule .invalid-field,
+#form_price_rule .invalid-field{
+    border: 1px solid red;
+}
+#form_cart_rule .error,
+#form_price_rule .error{
+    color: red;
+    display: inline-block;
+    padding: 0 5px;
+}
+.woo-discount-version {
+    font-size: 16px;
+}
+.license-success{
+    color: green;
+}
